@@ -10,6 +10,7 @@
 ## Responsive Email
 
 * [MJML](https://mjml.io/) - the only framework that makes responsive-email easy
+* [awesome-emails](https://github.com/jonathandion/awesome-emails) - An awesome list of resources to build better emails
 
 ## 数据库中间件
 
