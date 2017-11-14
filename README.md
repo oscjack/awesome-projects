@@ -11,6 +11,9 @@
 
 * [MJML](https://mjml.io/) - the only framework that makes responsive-email easy
 * [awesome-emails](https://github.com/jonathandion/awesome-emails) - An awesome list of resources to build better emails
+* [Cerberus](http://tedgoas.github.io/Cerberus/) - A few simple, but solid patterns for responsive HTML emails
+* [ZURB FOUNDATION](https://foundation.zurb.com/emails) - Quickly create responsive HTML emails that work. Even on Outlook
+
 
 ## 数据库中间件
 
